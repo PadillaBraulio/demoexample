@@ -10,5 +10,5 @@ run:
     port: 8000
     env: MY_APP_PORT  
   env:
-    - name: Name
+    - name: NAME
       value: "nclouds"
